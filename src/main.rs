@@ -1,6 +1,5 @@
+#![allow(dead_code)]
 use std::io;
-
-use menu::add_bill;
 
 #[derive(Debug, Clone)]
 pub struct Bill {
